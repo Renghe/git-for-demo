@@ -1,0 +1,4 @@
+*.log
+dir/
+myexcel.xlsx
+db.accdb

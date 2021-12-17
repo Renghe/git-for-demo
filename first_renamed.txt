@@ -1,0 +1,7 @@
+This is version 1 of my project
+
+I want to go into commit 2
+
+changed by tanvish
+
+this has beeen changed
